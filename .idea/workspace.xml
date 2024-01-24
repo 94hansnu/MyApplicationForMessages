@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3dfdf92-7e0f-492b-b427-f0f9d018bfbc" name="Changes" comment="updated pomfil" />
+    <list default="true" id="d3dfdf92-7e0f-492b-b427-f0f9d018bfbc" name="Changes" comment="updated Jenkisfile" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,7 +95,19 @@
       <option name="presentableId" value="LOCAL−00004" />
       <updated>1706088586467</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL−00005" summary="updated Jenkisfile">
+      <created>1706088857922</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1706088857922</updated>
+    </task>
+    <task id="LOCAL−00006" summary="updated Jenkisfile">
+      <created>1706088913305</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1706088913305</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -103,6 +115,7 @@
     <MESSAGE value="added Jenkinsfile" />
     <MESSAGE value="edited Jenkinsfile with maven" />
     <MESSAGE value="updated pomfil" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated pomfil" />
+    <MESSAGE value="updated Jenkisfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated Jenkisfile" />
   </component>
 </project>
