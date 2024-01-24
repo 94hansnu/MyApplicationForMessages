@@ -7,7 +7,7 @@ pipeline {
         stage ('build') {
             steps {
                 echo 'Building app...'
-                sh 'mvn -B'
+                sh 'mvn -B clean package'
                 echo 'Building succeeded!'
             }
         }
